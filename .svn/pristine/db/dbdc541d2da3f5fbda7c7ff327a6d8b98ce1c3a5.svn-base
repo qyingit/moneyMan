@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\e9bc6ef37c3544dd28f5434aa7314074fcd5ac9b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\androidStudio\qiangMoney\app\build\intermediates\pre-dexed\release\classes_867e67c81f768f843067b8b192d6a0fe9c1fc644.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\27f9de42f85575651962718fb1719a175ddb0a78\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\androidStudio\qiangMoney\app\build\intermediates\pre-dexed\release\classes_2a75d15d567eed49b22613dae2ac8eb16ea8c6c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\d4508161bd1b94290d00196c1ef6421561bb3c45\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\androidStudio\qiangMoney\app\build\intermediates\pre-dexed\release\classes_5311fd6b6d0feaf54997108a84d00a195349713e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\766db2702f7d1aa1ecf74ed807a448a338dd1b92\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\androidStudio\qiangMoney\app\build\intermediates\pre-dexed\release\classes_67b63948c9cc314fc2515e732388a325231d7358.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\f38da098c512d4d289a7fbb1fb404638cddef89a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\androidStudio\qiangMoney\app\build\intermediates\pre-dexed\release\classes_652c4cb78d3a7c7035fce6f2f536cb8b0d245f5a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidStudio\qiangMoney\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="13d76c8f6446367b5c5e908ddda4160d2c88649d">
+        <dex dex="D:\androidStudio\qiangMoney\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_55afeef478f5ae8eb0782af84998c030d48ca4a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidStudio\qiangMoney\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\androidStudio\qiangMoney\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_72134411100bb811e344776e54e1975c2c19af9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\6c00fbd7476af2ee2d79f4f4e7210b0511d17124\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\androidStudio\qiangMoney\app\build\intermediates\pre-dexed\release\classes_d4c9c023370a01f29ccb3eca0a3051644f75cc96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\3758632c30181eef6e9a57dda2dbc2541b96c4ab\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\androidStudio\qiangMoney\app\build\intermediates\pre-dexed\release\classes_d37a3189d84801d2217cef339fdbb189f02112cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\73ca3a40c489b7b97dcdaeae6814e7cf28ee2c9e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\androidStudio\qiangMoney\app\build\intermediates\pre-dexed\release\classes_9e64c91b48f147776b3afa75c80afff473b354b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\androidStudio\qiangMoney\app\build\intermediates\pre-dexed\release\support-annotations-25.3.1_00a790885d947ca2d9e16dabd8a0d435e9287d14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\c909d2aaddecf4ebfc8de281e049de49446460a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\androidStudio\qiangMoney\app\build\intermediates\pre-dexed\release\classes_843dadeb0034d78a2f8fe3be902f9831849d61a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\55ac5b014a5952964cc91a4828f3cf3373f1ee37\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\androidStudio\qiangMoney\app\build\intermediates\pre-dexed\release\classes_773f99dc27001d542fef4e22e3c6958d04d70cea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\androidStudio\qiangMoney\app\build\intermediates\pre-dexed\release\constraint-layout-solver-1.0.2_8b3fff35d4fb4ce08aa8ab0daab86dbd9a683b1a.jar" />
+    </item>
+
+</items>

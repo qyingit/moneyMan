@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">qiangMoney</string>
+    <string name="accessibility_description">微信自动抢红包神器</string>
+</resources>
